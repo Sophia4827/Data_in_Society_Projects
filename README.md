@@ -1,1 +1,3 @@
-# Data_in_Society_Projects
+# Data in Society Projects
+
+Here I have my final project from my Data in Society course at Binghamton University.
